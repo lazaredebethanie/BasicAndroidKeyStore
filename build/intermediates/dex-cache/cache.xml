@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/classes-71d37e09847029ee3434e221fb66b342e64cea12.jar" />
+    </item>
+    <item
+        jar="/home/andre/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-596296ea26eead310dc93a069ae69fdcaf176981.jar" />
+    </item>
+    <item
+        jar="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-5acc3ea602d9a5868b1251121ef0464bd4c1d80b.jar" />
+    </item>
+    <item
+        jar="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/classes-b0ca190b1c3398ecd39dee1d3dac2666f20b4e64.jar" />
+    </item>
+    <item
+        jar="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/classes-6a036007d6dccee216d2bb29f4e4ef247055f2c5.jar" />
+    </item>
+    <item
+        jar="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="/home/andre/AndroidStudioProjects/BasicAndroidKeyStore/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-0f81f15c906e69cf2bb9759a15516f43bc9c106d.jar" />
+    </item>
+
+</items>
